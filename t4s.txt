@@ -1,0 +1,10 @@
+Overlap of 30 minutes between 9:00 to 9:50, OOP-LECT meet and 8:30 to 9:30, Computer-analysis
+
+
+					This is your schedule
+
+
+OOP-LECT : From 9:00 to 9:50
+Placement-work : From 11:00 to 12:00
+OOP-project-analysis : From 13:30 to 14:30
+Director-meet : From 15:00 to 16:20

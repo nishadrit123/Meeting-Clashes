@@ -1,0 +1,22 @@
+For node insertion red black tree is used
+
+ids.txt file has user ids of the teachers.
+These ids are seperated by wide space
+
+    There are 4 different txt files describing the schedule of respective teacher.
+    There's a unique number given to respective teacher as per their repective position in ids.txt
+    
+    Regarding 4 txt files :
+        1st word depicts the number id of the teacher that getting invited
+        Number 0 means no other teacher is invited
+        2nd word describes the meet information
+        The remaining words dercribe the timings
+
+    construct_intTree function constructs the tree based on information of 4 files
+    At the same time 4 more files are generated which describes the meeting clashes and the rest schedule
+    of that particular teacher 
+    Like,
+        t1s describes meeting clashes and the schedule of teacher 1
+        t2s describes meeting clashes and the schedule of teacher 2
+        t3s describes meeting clashes and the schedule of teacher 3
+        t4s describes meeting clashes and the schedule of teacher 4

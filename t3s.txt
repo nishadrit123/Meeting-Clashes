@@ -1,0 +1,16 @@
+Overlap of 30 minutes between 9:00 to 9:50, OOP-LECT meet and 8:30 to 9:30, Computer-analysis
+
+
+Overlap of 1 hours between 11:00 to 12:00, Staff-gathering meet and 10:00 to 12:00, Gymkhana-meet
+
+
+Overlap of 30 minutes between 15:00 to 16:00, Production-lect meet and 15:30 to 16:30, SA-tut
+
+
+					This is your schedule
+
+
+Computer-analysis : From 8:30 to 9:30
+Gymkhana-meet : From 10:00 to 12:00
+SA-lab : From 13:00 to 15:00
+SA-tut : From 15:30 to 16:30

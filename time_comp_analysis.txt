@@ -1,0 +1,12 @@
+Time complexity analysis:
+
+Operation               Time complexity
+
+insert interval         log(N)
+
+find node               log(N)
+
+overlap of a            log(N)
+node with (l, h)
+
+    N is number of intervals

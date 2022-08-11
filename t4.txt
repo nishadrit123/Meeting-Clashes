@@ -1,0 +1,4 @@
+0 OOP-LECT 9:00 9:50
+2 Placement-work 11:00 12:00
+1 OOP-project-analysis 13:30 14:30
+3 Director-meet 15:00 16:20
