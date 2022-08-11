@@ -1,1 +1,2 @@
 # Meeting-Clashes
+The above project take schedule of 4 teaches in the form of text files. It further checks if there's any clash of a teacher's schedule with the rest teachers and if the clashes exist the clash time is calculated and a 4 separate text files are created describing the final schedule of all 4 teachers along with clash timings. Further these txt files are emailed to all 4 teachers. The data structure used is interval tree. Python is used to send mail
